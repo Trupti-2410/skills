@@ -1,3 +1,17 @@
+# The below table gives information about coreinfrastructure
+## the details are as follows
+![update coreinfra image](https://3.imimg.com/data3/IX/FR/MY-3177942/remote-infrastructure-management-rim-250x250.jpg
+)
+
+
+
+
+
+
+
+
+
+
 | name       | syllabus        | description  |  
 | ------------- |:-------------:| -----:| 
 | Design and Analyze Secure Networked Systems    | Cybersecurity Concepts and Security Principles | In this module, we will introduce the basic cyber security concepts, enable you to identity root causes of vulnerabilities in a network system and distinguish them from the threats from both inside and outside. We will analyze the enabling factors of recent cyber attack incidences and discuss the basic security services for their defense and triage. We will introduce the risk management framework for analyzing the risks in a network system, and apply the basic security design principles to protect the data and secure the computer systems. | 
