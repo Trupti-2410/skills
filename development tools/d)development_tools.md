@@ -1,6 +1,8 @@
 
 
 ![web-development](https://user-images.githubusercontent.com/63445264/81846002-08d05180-956f-11ea-85bc-2f91601f8c11.gif)
+![devops (1)](https://user-images.githubusercontent.com/63445264/81846852-5f8a5b00-9570-11ea-98f1-b80b190719ae.gif)
+
 
 
 
