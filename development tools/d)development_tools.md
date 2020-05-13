@@ -1,7 +1,5 @@
 
 
-![20191221_075705](https://user-images.githubusercontent.com/63445264/81839011-978ba100-9564-11ea-9c65-ce1cd14e2ec4.jpg)
-![New Text Document.txt](https://github.com/Trupti-2410/skills/files/4623330/New.Text.Document.txt)
 
 
 
