@@ -1,3 +1,20 @@
+# Below table shows the languages used for programming for various applivations
+![what is devops](https://lh3.googleusercontent.com/-J9T6LjWUlsA/XrqRQemWlWI/AAAAAAABAUo/hvNdtJPFNgQSVldFp35PG0knUPYfe7WOgCK8BGAsYHg/s0/DevOps.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | name       | description         | used mostly  |  applications  |
 | ------------- |:-------------:| -----:| --------:|
 |  JavaScript     | JavaScript is light weighed, interpreted. JavaScript is one of the core technologies of the World Wide Web.The majority of websites use a third-party JavaScript library or web application framework as part of their client-side page scripting. | JavaScript is mainly used for web-based applications and web browsers. servers and embedded hardware controls.|web applications,web desigining,gaming app,smart wateches apps,presentations. |
