@@ -1,7 +1,8 @@
 # The below table gives information about coreinfrastructure
 ## the details are as follows
 ![update coreinfra image](https://3.imimg.com/data3/IX/FR/MY-3177942/remote-infrastructure-management-rim-250x250.jpg
-)      ![]()https://www.rfwireless-world.com/images/cloud-storage-infrastructure.jpg)
+)     
+![](https://www.rfwireless-world.com/images/cloud-storage-infrastructure.jpg)
 
 
 
