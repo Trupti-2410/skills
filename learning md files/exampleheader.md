@@ -8,6 +8,7 @@
 ![image](https://github.com/Trupti-2410/skills/blob/master/images/hardware%20infra.jpg)
 ![video](https://github.com/Trupti-2410/skills/blob/master/video/sample video/)
 ![video github](https://github.com/Trupti-2410/skills/blob/master/learning%20md%20files/20191221_074147.mp4)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 
 
