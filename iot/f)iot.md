@@ -1,3 +1,17 @@
+# INTERNET OF THINGS
+## The sheet gives overview of IoT
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwLkpZqOKQYbROuCdxQEvcmX65-yzbQi7V9hp3mIu_-f-tTkxo&usqp=CAU)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStJycyYUs6R2ofP-DGZR98-E8xo75D7AA_VMJPZ93B_yPnZz2X&usqp=CAU)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUkGTxydgU1qNye9UJo_m-kfBItoXm567dXOV-ur2Cm6FruYkj&usqp=CAU)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPnVf2IRP0JsvUp-XhvpMR_onuRnXQqKX5hqaDfsipeZQmbWV8&usqp=CAU)
+
+
+
+
+
+
+
+
 | name       | syllabus        | description  |  
 | ------------- |:-------------:| -----:| 
 | Introduction to the Internet of Things and Embedded Systems     | What Is the Internet of Things (IoT)? |The Internet of Things (IoT) is a popular buzzword right now, but unlike many fads which have come and gone, the Internet of Things describes an important trend which is having lasting effects on society at large. The term itself, “Internet of Things”, is used to mean a variety of ideas, depending on the motivation and background of the speaker. This course will start by providing a definition of the term. We will talk about how various trends have enabled the Internet of Things, and how it changes the way design is performed. We will also discuss some of the ramifications that IoT is having on society today.  | 
