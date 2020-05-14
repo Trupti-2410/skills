@@ -7,7 +7,7 @@
 
 ![image](https://github.com/Trupti-2410/skills/blob/master/images/hardware%20infra.jpg)
 
-[![IMAGE ALT TEXT HERE](https://github.com/Trupti-2410/skills/blob/master/images/hardware%20infra.jpg)](http://www.youtube.com/watch?v=https://youtu.be/iKex0vqttiU)
+[![IMAGE ALT TEXT HERE](https://github.com/Trupti-2410/skills/blob/master/images/hardware%20infra.jpg)](https://youtu.be/iKex0vqttiU)
 
 
 
