@@ -1,6 +1,6 @@
 # DIGITAL MARKETING
 ## The table shows digital marketing overview
-![](https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2019/02/SQL-Vs-NoSQL-Databases.png)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRjsdF7LiyhRa8hwXyV6QsJwz_Rk2IvyuV8IQZ17jpCkVzZY08&usqp=CAU)
 ![](https://www.webcomtechnologiesusa.com/wp-content/uploads/2019/11/digital-marketing-840x450.jpg)
 
 
