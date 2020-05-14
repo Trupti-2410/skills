@@ -7,6 +7,7 @@
 
 ! [iot] (https://www.google.com/url?q=https://drive.google.com/open?id%3D1WG4aqs6L0BovJIRS2Vg-bY9XzD9FFxhW&sa=D&source=hangouts&ust=1589553056786000&usg=AFQjCNGcWIoQh0UnJGx6T7BylXJ02RocTA)
 
+![2-Figure1-1 (1)](https://user-images.githubusercontent.com/63445264/81951335-ab95d800-9622-11ea-9b8a-e024fe4c79ca.png)
 
 
 
