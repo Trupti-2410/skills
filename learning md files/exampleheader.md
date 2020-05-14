@@ -4,11 +4,11 @@
 **databases**
 
 **databases
-![SQL-Vs-NoSQL-Databases](https://user-images.githubusercontent.com/63445264/81916604-a1a7b100-95f1-11ea-9c34-ef05c85db035.png)
-![DevOps-Tools-DevOps-Tutorial-Edureka-1](https://user-images.githubusercontent.com/63445264/81916719-cc920500-95f1-11ea-9b94-a6443f1b12a4.png)
-![web-development](https://user-images.githubusercontent.com/63445264/81916874-0d8a1980-95f2-11ea-861c-957b565a7c3c.gif)
-https://www.google.com/url?q=https://drive.google.com/open?id%3D1WG4aqs6L0BovJIRS2Vg-bY9XzD9FFxhW&sa=D&source=hangouts&ust=1589553056786000&usg=AFQjCNGcWIoQh0UnJGx6T7BylXJ02RocTA
 
+![iot](https://www.google.com/url?q=https://drive.google.com/open?id%3D1WG4aqs6L0BovJIRS2Vg-bY9XzD9FFxhW&sa=D&source=hangouts&ust=1589553056786000&usg=AFQjCNGcWIoQh0UnJGx6T7BylXJ02RocTA)
+
+
+![iot file](https://drive.google.com/open?id=1bLxW42_mADcDjLumbrE0PsLhRspRx52W)
 
 
 
