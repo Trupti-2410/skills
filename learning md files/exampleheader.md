@@ -5,8 +5,9 @@
 
 **databases
 
-https://www.google.com/url?q=https://drive.google.com/open?id%3D1WG4aqs6L0BovJIRS2Vg-bY9XzD9FFxhW&sa=D&source=hangouts&ust=1589553056786000&usg=AFQjCNGcWIoQh0UnJGx6T7BylXJ02RocTA
-![video](https://github.com/Trupti-2410/skills/blob/master/images/hardware%20infra.jpg)
+![image](https://github.com/Trupti-2410/skills/blob/master/images/hardware%20infra.jpg)
+![video](https://github.com/Trupti-2410/skills/blob/master/video/sample video/)
+
 
 
   
