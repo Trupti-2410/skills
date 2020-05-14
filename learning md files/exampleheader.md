@@ -6,22 +6,9 @@
 **databases
 
 https://www.google.com/url?q=https://drive.google.com/open?id%3D1WG4aqs6L0BovJIRS2Vg-bY9XzD9FFxhW&sa=D&source=hangouts&ust=1589553056786000&usg=AFQjCNGcWIoQh0UnJGx6T7BylXJ02RocTA
+![video](https://github.com/Trupti-2410/skills/blob/master/images/hardware%20infra.jpg)
 
-![2-Figure1-1 (1)](https://user-images.githubusercontent.com/63445264/81951335-ab95d800-9622-11ea-9b8a-e024fe4c79ca.png)
-![lang.](https://drive.google.com/open?id=1A9DcY4FmsopQQnFtWLgDf_bXlWW6qkKu)
 
-![github](https://github.com/Trupti-2410/skills/blob/master/images/hardware%20infra.jpg)
-
-![from drive](https://drive.google.com/open?id=1zGnWhFutF_dTgyx6T_UZHnQMlslqrY7d)
-https://drive.google.com/open?id=1WKFFqzZq-msyB8-a5br3OsCDQTCSxr3S
-
-![drive image](https://drive.google.com/open?id=1zGnWhFutF_dTgyx6T_UZHnQMlslqrY7d)
-![drve imge](https://drive.google.com/open?id=1zGnWhFutF_dTgyx6T_UZHnQMlslqrY7d)
-![video](https://github.com/Trupti-2410/skills/blob/master/images/hardware%20infra.jpg)(https://youtu.be/N-u-SwZDgms)
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/N-u-SwZDgms" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  </video>
   
 
 
