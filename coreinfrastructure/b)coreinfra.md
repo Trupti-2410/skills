@@ -3,7 +3,7 @@
 ![update coreinfra image](https://3.imimg.com/data3/IX/FR/MY-3177942/remote-infrastructure-management-rim-250x250.jpg
 )     
                 ![](https://www.rfwireless-world.com/images/cloud-storage-infrastructure.jpg)
-
+![](https://live.staticflickr.com/3347/3504441373_a7d8c8eaeb_z.jpg)
 
 
 
