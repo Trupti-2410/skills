@@ -1,3 +1,16 @@
+# DATA SCIENCE
+## The below file shows the things used in data science
+![](https://www.houseofbots.com/images/news/4315/cover.png)
+![](https://i.ytimg.com/vi/X3paOmcrTjQ/maxresdefault.jpg)
+![](https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/data_science_shutterstock_shutterstock_Trueffelpix-768x237.jpg
+)
+
+
+
+
+
+
+
 | name       | syllabus        | description  |  
 | ------------- |:-------------:| -----:| 
 | Data Science specialization    | The data scientist's tools|Data Science Fundamentals|
