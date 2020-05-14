@@ -12,7 +12,8 @@ https://www.google.com/url?q=https://drive.google.com/open?id%3D1WG4aqs6L0BovJIR
 
 ![github](https://github.com/Trupti-2410/skills/blob/master/images/hardware%20infra.jpg)
 ![from drive](https://drive.google.com/open?id=1zGnWhFutF_dTgyx6T_UZHnQMlslqrY7d)
-
+https://drive.google.com/open?id=1WKFFqzZq-msyB8-a5br3OsCDQTCSxr3S
+![drive image](https://drive.google.com/open?id=1zGnWhFutF_dTgyx6T_UZHnQMlslqrY7d)
 
 
 | name       | description         | type of database  |    
