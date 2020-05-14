@@ -1,3 +1,19 @@
+# CLOUDS
+## The table gives comparision between Azure, AWS region and compute and Google compute and region
+![](https://documentation.commvault.com/commvault/v11_sp6/images/cloud_storage/cloud_deduplication_direct.png)
+![](https://vcdn-english.vnecdn.net/2019/04/10/anh-1-bai-2-1554804857-1591-1554831349.png)
+![](https://d3i71xaburhd42.cloudfront.net/f00ca4f4206e4934163a28354041f618e9de8562/2-Figure1-1.png)
+![](https://rfpage.com/wp-content/uploads/2018/01/Key-IoT-Components.jpg)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSlNzjOishZNVnvtGt-8hb1PtqZNyUTq_bEfk9vD4OinrMnwpL&usqp=CAU)
+
+
+
+
+
+
+
+
+
 | available region     | Azure       | AWS region and compute  | Google compute and region  |
 | ------------- |:-------------:| -----:| --------:|
 |Computer services|Virtual machines|Elastic computer cloud(E2C)|Compute engines|
