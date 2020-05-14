@@ -19,8 +19,9 @@ https://drive.google.com/open?id=1WKFFqzZq-msyB8-a5br3OsCDQTCSxr3S
 ![drve imge](https://drive.google.com/open?id=1zGnWhFutF_dTgyx6T_UZHnQMlslqrY7d)
 ![video](https://github.com/Trupti-2410/skills/blob/master/images/hardware%20infra.jpg)(https://youtu.be/N-u-SwZDgms)
 <video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
+  <source src="https://youtu.be/N-u-SwZDgms" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
+  </video>
   
 
 
