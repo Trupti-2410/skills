@@ -1,8 +1,9 @@
 # The sheet gives the programming languages for various applications
-![](C:\Users\yadav\Desktop\images\devops)
-![]()
-![]()
-![]()
+![](https://dzone.com/storage/temp/12611063-programming-languages.png)
+![](https://devopscube.com/wp-content/uploads/2017/12/best-programming-2018-768x427.png)
+![](http://www.scmgalaxy.com/tutorials/wp-content/uploads/2017/04/top-10-scripting-languages-.png
+)
+
 
 
 
