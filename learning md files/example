@@ -1,3 +1,11 @@
+# This are the databases used
+## Also they are classified as SQL and NoSQL
+### the table is as follow:
+**databases**
+
+**databases
+
+
 
 
 
@@ -19,4 +27,3 @@
 |Document Store|Document store databases use JSON, XML, or BSON documents to store data. You can pretty much fill in a document with whatever data you want. Documents can have different structures, but you can index common fields for faster performance.|NoSql|
 |Key-Value Data Store|Key-value databases store data in unique key-value pairs, meaning each key is associated only with one value in a collection, like in a dictionary. This makes querying a key-value data store fast because of its simple model. There’s no query language needed. Data retrieval is a simple matter of using get, put, and delete commands.|NoSQL|
 |Graph db|Graph databases use nodes that contain lists of relationship records. These records represent relationships with other nodes, which eliminates the (time-consuming) search-match operation found in relational databases.Nodes and relationships are the bases of graph databases.|NoSQL|
-
