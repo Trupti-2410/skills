@@ -9,19 +9,11 @@
 
 [![IMAGE ALT TEXT HERE](https://github.com/Trupti-2410/skills/blob/master/learning%20md%20files/play.png)](https://youtu.be/iKex0vqttiU)
 [![IMAGE ALT TEXT HERE](https://github.com/Trupti-2410/skills/blob/master/learning%20md%20files/play.png)](https://drive.google.com/open?id=1z_29okUm34fxrv6t7PnbYztpHQeNYPxq)
-
 ![web-development](https://user-images.githubusercontent.com/63445264/81960228-3fb96c80-962e-11ea-83f4-1b9e6023241c.gif)
 
 
 
-  
-
-
-
-
-
-
-
+ 
 
 | name       | description         | type of database  |    
 | ------------- |:-------------:| -----:| 
