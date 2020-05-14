@@ -1,3 +1,18 @@
+# DATABASES
+## The various data bases are mentioned below
+![](https://lexgocode.files.wordpress.com/2016/07/databases.jpg)
+![](https://techietrack.files.wordpress.com/2015/02/query-mechanisms-for-nosql-databases-16-1024.jpg?w=553&h=387)
+![](https://img.deusm.com/informationweek/2014/06/1269559/NoSQL-&-NewSQL.jpg)
+![](https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2019/02/SQL-Vs-NoSQL-Databases.png)
+
+
+
+
+
+
+
+
+
 | name       | description         | type of database  |    
 | ------------- |:-------------:| -----:| 
 |mysql |MySQL is the most popular Open Source Relational SQL Database Management System. MySQL is a fast, easy-to-use RDBMS being used for many small and big businesses( Relational DataBase Management System)|SQL|
