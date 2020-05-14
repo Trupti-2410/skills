@@ -4,6 +4,8 @@
 **databases**
 
 **databases
+![SQL-Vs-NoSQL-Databases](https://user-images.githubusercontent.com/63445264/81916604-a1a7b100-95f1-11ea-9c34-ef05c85db035.png)
+
 
 
 
