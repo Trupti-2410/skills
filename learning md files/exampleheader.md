@@ -11,6 +11,7 @@ https://www.google.com/url?q=https://drive.google.com/open?id%3D1WG4aqs6L0BovJIR
 ![lang.](https://drive.google.com/open?id=1A9DcY4FmsopQQnFtWLgDf_bXlWW6qkKu)
 
 ![github](https://github.com/Trupti-2410/skills/blob/master/images/hardware%20infra.jpg)
+![from drive](https://drive.google.com/open?id=1zGnWhFutF_dTgyx6T_UZHnQMlslqrY7d)
 
 
 
