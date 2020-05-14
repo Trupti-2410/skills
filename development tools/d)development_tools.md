@@ -1,7 +1,11 @@
-
-
+# Devoplment_tools
+## The table shows the tools used in devops
 ![web-development](https://user-images.githubusercontent.com/63445264/81846002-08d05180-956f-11ea-85bc-2f91601f8c11.gif)
 ![devops (1)](https://user-images.githubusercontent.com/63445264/81846852-5f8a5b00-9570-11ea-98f1-b80b190719ae.gif)
+![](https://www.veritis.com/wp-content/uploads/2018/03/DevOps-Tools.jpg)
+![](https://www.osolabs.com/wp-content/uploads/2019/09/devops-tools-690x460.png)
+![](https://qphs.fs.quoracdn.net/main-qimg-22babcb57b567c79374553f2f307905a) 
+
 
 
 
