@@ -8,11 +8,7 @@
 ![iot](https://www.google.com/url?q=https://drive.google.com/open?id%3D1WG4aqs6L0BovJIRS2Vg-bY9XzD9FFxhW&sa=D&source=hangouts&ust=1589553056786000&usg=AFQjCNGcWIoQh0UnJGx6T7BylXJ02RocTA)
 
 
-![iot file](https://drive.google.com/open?id=1bLxW42_mADcDjLumbrE0PsLhRspRx52W)
 
-![image](https://drive.google.com/open?id=1bLxW42_mADcDjLumbrE0PsLhRspRx52W)
-
-![](https://drive.google.com/open?id=1R2oq4mHoK6Kfss01g8tkH1WmDkXF0KTE)
 
 
 
