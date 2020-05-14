@@ -1,3 +1,12 @@
+# DIGITAL MARKETING
+## The table shows digital marketing overview
+![](https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2019/02/SQL-Vs-NoSQL-Databases.png)
+![](https://www.webcomtechnologiesusa.com/wp-content/uploads/2019/11/digital-marketing-840x450.jpg)
+
+
+
+
+
 | name       | syllabus        | description  |  
 | ------------- |:-------------:| -----:| 
 | Digital Media and Marketing Principles    | Course Overview and Principles and Concepts|In this module, you will become familiar with the course, your instructor, your classmates, and our learning environment. The orientation also helps you obtain the technical skills required for the course.|
