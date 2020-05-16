@@ -1,6 +1,6 @@
 
-|USER INFO| |TECHNOLOGY INFORMATION |   
-|------:|:------:|-----:|-----:|             
+|USER INFO| |TECHNOLOGY INFORMATION |  -|-| 
+|------|:------:|-----:|-----:|             
 |Name *|Email *|Date of Birth *|Which OS do you use? *|
 |Validation Regular expression Contains|Validation Text Email address|MM/DD/YYYY|Windows|
 |-|-|-|						                                |Andriod| 
