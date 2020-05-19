@@ -1,6 +1,9 @@
 # YOUTUBE CHANNEL
 ## How to create youtube channel
 
+![youtube logo](https://user-images.githubusercontent.com/63445264/82326198-174cbc00-99fa-11ea-8285-bffc15671d1f.png)
+
+
 The below document gives you the information about how to create youtube channel.
 
 ## The basic requirement for creating the channel are as follows:
