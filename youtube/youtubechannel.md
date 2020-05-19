@@ -87,6 +87,8 @@ after these you will get money added to your synced bank account.
 
 ## HOW TO UPLOAD VIDEOS ON YOUR NEW YOUTUBE CHANNEL
 
+![upload](https://user-images.githubusercontent.com/63445264/82326901-2c761a80-99fb-11ea-8760-824c0da88a14.png)
+
 After creating your channel next we have to upload videos. So, if you are on same page, at the right hand corner there will be upload icon click on that. Else,
 
 ## Follow the steps
@@ -110,6 +112,8 @@ d)by clicking on **publish** button your video will be uploaded to your youtube 
 
 Basically, playlist is about categorising your videos. if you are making videos on same topic for more than twice times you can keep all them in same place by making a **playlist**.
 
+![playlist](https://user-images.githubusercontent.com/63445264/82326928-34ce5580-99fb-11ea-8863-5be37f354dbc.jpg)
+
 a)open your youtube channel, click on playlist. if you have previous playlists it will view it and if not you have to add videos to it.
 
 b) go to coustmise channel, after clicking on coustmise channelyou will get option of **new playlist**. you have to give playlist title. next you have to select between public or private.
@@ -121,5 +125,9 @@ d) beside your channel name you will get option about editing, click on that. on
 e) choose your videos according to your playlist and say add videos.
 
 f) going back to channel page, you will see new playlist has been added to your channel.
+
+![youtube](https://user-images.githubusercontent.com/63445264/82326951-3f88ea80-99fb-11ea-8110-698038a90396.png)
+
+
 
 
