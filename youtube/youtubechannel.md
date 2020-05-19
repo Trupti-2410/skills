@@ -42,6 +42,8 @@ your new youtube channel is created.
 
 ## IF YOU WANT EARN FROM YOUTUBE CHANNEL(MONETIZATION OF YOUR CHANNEL):
 
+![monetization](https://user-images.githubusercontent.com/63445264/82326438-74e10880-99fa-11ea-8b03-967d566d049e.png)
+
 Very first, 
 
 a)go on youtube page, at the right corner of the page you will see the **sign in** option. for **sign in** you have to give the registerd email id and its creidentals.
@@ -80,6 +82,8 @@ After verification the google adsense page will open. fill your information like
 c)submit your account details.
 it will redirect you to youtube page. on the page you will get one message about submission of your Adsense application and it will review within a week.
 after these you will get money added to your synced bank account.  
+
+![money](https://user-images.githubusercontent.com/63445264/82326462-7d394380-99fa-11ea-888e-040212cbe3c8.jpg)
 
 ## HOW TO UPLOAD VIDEOS ON YOUR NEW YOUTUBE CHANNEL
 
