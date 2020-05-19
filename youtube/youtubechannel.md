@@ -89,6 +89,8 @@ after these you will get money added to your synced bank account.
 
 After creating your channel next we have to upload videos. So, if you are on same page, at the right hand corner there will be upload icon click on that. Else,
 
+## Follow the steps
+
 a) Go to any browser and open youtbe page. sign in to your account
 
 b)click on the upload option and you will get window showing upload videos. from the list of your videos select the video which you want to upload on the channel. once you select the file it will start uploading.
