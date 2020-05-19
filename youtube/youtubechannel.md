@@ -1,8 +1,10 @@
 # YOUTUBE CHANNEL
 ## How to create youtube channel
-image of youtube logo
+
 The below document gives you the information about how to create youtube channel.
+
 ##The basic requirement for creating the channel are as follows:
+
 **gmail account**
 
 **valid phone number**
@@ -12,9 +14,11 @@ The below document gives you the information about how to create youtube channel
 **your videos**
 
 As we all have Gmail account we have to sign in from it to create our own channel.
-very first, go on youtube page. at the right corner of the page you will see the **sign in ** option. for sign in you have to give the registerd email id and its creidentals.
+very first, go on youtube page. at the right corner of the page you will see the **sign in** option. for sign in you have to give the registerd email id and its creidentals.
 after registering you will get a new youtube page where your page is synced with your gmail account.
-once you get into the page, again at your right hand corner you will be displayed with some character image or your profile picture of gmail account. further follow the steps,
+once you get into the page, again at your right hand corner you will be displayed with some character image or your profile picture of gmail account. 
+
+## Further follow the steps,
 
 a)after signing in to the youtube page,click on the profile logo and you will get dropbox in that select **Channel**.
 
@@ -26,13 +30,15 @@ d) if you have your own website and if you want to promote it through youtube yo
 
 e)save all the changes. after these you will be redirect to the your youtube channel page.
 
-Now we will go further for advance settings of our channel. in settings
+Now we will go further for advance settings of our channel. In settings
 
 a)go to channel. in channel you will get basic information form to fill up, fill it accordingly. you will also get the subcriber count if you want the count of subscriber then enable it.
 
 b)in advance settings you have to verify your account. give your email and you will get verification code. after these your channel will be verified.
 your new youtube channel is created.
-##IF YOU WANT EARN FROM YOUTUBE CHANNEL(MONETIZATION OF YOUR CHANNEL):
+
+## IF YOU WANT EARN FROM YOUTUBE CHANNEL(MONETIZATION OF YOUR CHANNEL):
+
 Very first, 
 
 a)go on youtube page, at the right corner of the page you will see the **sign in** option. for **sign in** you have to give the registerd email id and its creidentals.
@@ -72,7 +78,7 @@ c)submit your account details.
 it will redirect you to youtube page. on the page you will get one message about submission of your Adsense application and it will review within a week.
 after these you will get money added to your synced bank account.  
 
-#HOW TO UPLOAD VIDEOS ON YOUR NEW YOUTUBE CHANNEL
+## HOW TO UPLOAD VIDEOS ON YOUR NEW YOUTUBE CHANNEL
 
 After creating your channel next we have to upload videos. So, if you are on same page, at the right hand corner there will be upload icon click on that. Else,
 
@@ -91,7 +97,7 @@ make sure your video is public so that people can browse over it. after switchin
 
 d)by clicking on **publish** button your video will be uploaded to your youtube channel.
 
-# HOW TO MAKE PLAYLISTS O YOUTUBE CHANNEL
+## HOW TO MAKE PLAYLISTS O YOUTUBE CHANNEL
 
 Basically, playlist is about categorising your videos. if you are making videos on same topic for more than twice times you can keep all them in same place by making a **playlist**.
 
