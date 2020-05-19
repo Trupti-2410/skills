@@ -5,13 +5,13 @@ The below document gives you the information about how to create youtube channel
 
 ## The basic requirement for creating the channel are as follows:
 
-**gmail account**
+**a)gmail account**
 
-**valid phone number**
+**b)valid phone number**
 
-**bank account**
+**c)bank account**
 
-**your videos**
+**d)your videos**
 
 As we all have Gmail account we have to sign in from it to create our own channel.
 very first, go on youtube page. at the right corner of the page you will see the **sign in** option. for sign in you have to give the registerd email id and its creidentals.
