@@ -126,7 +126,7 @@ e) choose your videos according to your playlist and say add videos.
 
 f) going back to channel page, you will see new playlist has been added to your channel.
 
-![youtube](https://user-images.githubusercontent.com/63445264/82326951-3f88ea80-99fb-11ea-8110-698038a90396.png)
+
 
 
 
