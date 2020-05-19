@@ -3,7 +3,7 @@
 
 The below document gives you the information about how to create youtube channel.
 
-##The basic requirement for creating the channel are as follows:
+## The basic requirement for creating the channel are as follows:
 
 **gmail account**
 
