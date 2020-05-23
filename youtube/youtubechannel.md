@@ -20,7 +20,7 @@ The below document gives you the information about how to create youtube channel
 
 ## Step 1: LOGIN:
 
-USECASE 1: USER SHOULD BE ABLE TO LOGIN THROUGH GMAIL ACCOUNT.
+## USECASE 1: USER SHOULD BE ABLE TO LOGIN THROUGH GMAIL ACCOUNT.
   
   TEST CASE 1:
              
@@ -35,7 +35,7 @@ USECASE 1: USER SHOULD BE ABLE TO LOGIN THROUGH GMAIL ACCOUNT.
               STEP 3: If you have your own website and if you want to promote it through youtube you can also give the url of website.
               STEP 4: Save all the changes. After these you will be redirect to the your **youtube channel page**.
 
-USECASE 2: ADVANCE SETTINGS OF YOUR CHANNEL.
+## USECASE 2: ADVANCE SETTINGS OF YOUR CHANNEL.
  
  TEST CASE 2: 
  
@@ -49,7 +49,7 @@ USECASE 2: ADVANCE SETTINGS OF YOUR CHANNEL.
 
 ![monetization](https://user-images.githubusercontent.com/63445264/82326438-74e10880-99fa-11ea-8b03-967d566d049e.png)
 
-USECASE 1: CREATING YOUTUBE ACCOUNT AND MAKING CERTAIN CHANGES IN IT.
+## USECASE 1: CREATING YOUTUBE ACCOUNT AND MAKING CERTAIN CHANGES IN IT.
  
  TEST CASE 1:
  
@@ -69,7 +69,7 @@ USECASE 1: CREATING YOUTUBE ACCOUNT AND MAKING CERTAIN CHANGES IN IT.
 
 ![DASHBOARD](https://user-images.githubusercontent.com/63445264/82727728-e32f0f00-9d09-11ea-939c-1184f62e7388.jpg)
 
-USECASE 2: HOW TO MONETIZE YOUR YOUTUBE ACCOUNT.
+## USECASE 2: HOW TO MONETIZE YOUR YOUTUBE ACCOUNT.
            If you want to get advertisment on your channel it is important to monititize your account.
            On the dashboard you will see option MONETIZATION to enable that we have to follow some steps.
 
@@ -93,11 +93,11 @@ TEST CASE 1:
 
 ![money](https://user-images.githubusercontent.com/63445264/82326462-7d394380-99fa-11ea-888e-040212cbe3c8.jpg)
 
-## HOW TO UPLOAD VIDEOS ON YOUR NEW YOUTUBE CHANNEL
+ USECASE 3: HOW TO UPLOAD VIDEOS ON YOUR NEW YOUTUBE CHANNEL.
+
+After creating your channel next we have to upload videos. So, if you are on same page, at the right hand corner there will be upload icon click on that.
 
 ![upload](https://user-images.githubusercontent.com/63445264/82326901-2c761a80-99fb-11ea-8760-824c0da88a14.png)
-
-After creating your channel next we have to upload videos. So, if you are on same page, at the right hand corner there will be upload icon click on that. Else,
 
 ## Follow the steps
 
