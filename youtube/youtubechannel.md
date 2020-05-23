@@ -16,29 +16,38 @@ The below document gives you the information about how to create youtube channel
 
 **d)your videos**
 
-As we all have Gmail account we have to sign in from it to create our own channel.
-very first, go on youtube page. at the right corner of the page you will see the **sign in** option. for sign in you have to give the registerd email id and its creidentals.
-after registering you will get a new youtube page where your page is synced with your gmail account.
-once you get into the page, again at your right hand corner you will be displayed with some character image or your profile picture of gmail account. 
+## Lets start with how to create your Youtube channel.
 
-## Further follow the steps,
+## Step 1: LOGIN:
+USECASE 1: USER SHOULD BE ABLE TO LOGIN THROUGH GMAIL ACCOUNT.
+  TEST CASE 1: STEP 1: As we all have Gmail account we have to sign in from it to create our own channel.
+                       Go on youtube page. at the right corner of the page you will see the **sign in** option. for sign in you have to                        give the registerd email id and its creidentals. 
+                       after registering you will get a new youtube page where your page is synced with your gmail account.
+                       once you get into the page, again at your right hand corner you will be displayed with some character image or                          your profile picture of gmail account. 
 
-a)after signing in to the youtube page,click on the profile logo and you will get dropbox in that select **Channel**.
+              STEP 2: After signing in to the youtube page,click on the profile logo and you will get dropbox in that select **CHANNEL**
+                      After these you will get messsge that your account has been generated. after these you can also upload profile                           picture as of your choice.
+                      
+              STEP 3: If you have your own website and if you want to promote it through youtube you can also give the url of website.
+              STEP 4: Save all the changes. After these you will be redirect to the your **youtube channel page**.
+USECASE 2: ADVANCE SETTINGS OF YOUR CHANNEL.
+ TEST CASE 2: STEP 1: In settings,
+                      Go to channel. In channel you will get basic information form to fill up, fill it accordingly. you will also get                         the subcriber count if you want the count of subscriber then enable it.
+                      
+               STEP 2: In advance settings you have to verify your account. give your email and you will get verification code.After                            these your channel will be verified.      
+               STEP 3: Your new Youtube channel is created.
 
-b)you can have your own gmail account name else you can also go with the custom name as the options are avialable.
 
-c)after these you will get messsge that your account has been generated. after these you can also upload profile picture as of your choice.
 
-d) if you have your own website and if you want to promote it through youtube you can also give the url of website.
 
-e)save all the changes. after these you will be redirect to the your youtube channel page.
 
-Now we will go further for advance settings of our channel. In settings
 
-a)go to channel. in channel you will get basic information form to fill up, fill it accordingly. you will also get the subcriber count if you want the count of subscriber then enable it.
 
-b)in advance settings you have to verify your account. give your email and you will get verification code. after these your channel will be verified.
-your new youtube channel is created.
+
+
+
+
+
 
 ## IF YOU WANT EARN FROM YOUTUBE CHANNEL(MONETIZATION OF YOUR CHANNEL):
 
