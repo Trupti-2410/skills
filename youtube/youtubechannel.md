@@ -20,7 +20,7 @@ The below document gives you the information about how to create youtube channel
 
 ## Step 1: LOGIN:
 
-## USECASE 1: USER SHOULD BE ABLE TO LOGIN THROUGH GMAIL ACCOUNT.
+USECASE 1: USER SHOULD BE ABLE TO LOGIN THROUGH GMAIL ACCOUNT.
   
   TEST CASE 1:
              
@@ -35,7 +35,7 @@ The below document gives you the information about how to create youtube channel
               STEP 3: If you have your own website and if you want to promote it through youtube you can also give the url of website.
               STEP 4: Save all the changes. After these you will be redirect to the your **youtube channel page**.
 
-## USECASE 2: ADVANCE SETTINGS OF YOUR CHANNEL.
+USECASE 2: ADVANCE SETTINGS OF YOUR CHANNEL.
  
  TEST CASE 2: 
  
@@ -49,7 +49,7 @@ The below document gives you the information about how to create youtube channel
 
 ![monetization](https://user-images.githubusercontent.com/63445264/82326438-74e10880-99fa-11ea-8b03-967d566d049e.png)
 
-## USECASE 1: CREATING YOUTUBE ACCOUNT AND MAKING CERTAIN CHANGES IN IT.
+ USECASE 1: CREATING YOUTUBE ACCOUNT AND MAKING CERTAIN CHANGES IN IT.
  
  TEST CASE 1:
  
@@ -69,7 +69,7 @@ The below document gives you the information about how to create youtube channel
 
 ![DASHBOARD](https://user-images.githubusercontent.com/63445264/82727728-e32f0f00-9d09-11ea-939c-1184f62e7388.jpg)
 
-## USECASE 2: HOW TO MONETIZE YOUR YOUTUBE ACCOUNT.
+ USECASE 2: HOW TO MONETIZE YOUR YOUTUBE ACCOUNT.
            If you want to get advertisment on your channel it is important to monititize your account.
            On the dashboard you will see option MONETIZATION to enable that we have to follow some steps.
 
@@ -93,30 +93,36 @@ TEST CASE 1:
 
 ![money](https://user-images.githubusercontent.com/63445264/82326462-7d394380-99fa-11ea-888e-040212cbe3c8.jpg)
 
- USECASE 3: HOW TO UPLOAD VIDEOS ON YOUR NEW YOUTUBE CHANNEL.
+ ## STEP 2: UPLOAD VIDEOS
+ 
+ USECASE 1: HOW TO UPLOAD VIDEOS ON YOUR NEW YOUTUBE CHANNEL.
 
-After creating your channel next we have to upload videos. So, if you are on same page, at the right hand corner there will be upload icon click on that.
+TEST CASE 1:
+ 
+               After creating your channel next we have to upload videos. So, if you are on same page, at the right hand corner                        there will be upload icon click on that.
 
 ![upload](https://user-images.githubusercontent.com/63445264/82326901-2c761a80-99fb-11ea-8760-824c0da88a14.png)
 
-## Follow the steps
+              STEP 1: Click on the upload option and you will get window showing upload videos.
+              
+              STEP 2: From the list of your videos select the video which you want to upload on the channel. once you select the file it                       will start uploading.
 
-a) Go to any browser and open youtbe page. sign in to your account
+              STEP 3: While video is being uploading on channel you have to fill the basic information like video title and video                             descripton.
+                      It is important  that how to give the video a nice title. which also attracts the viewers and also help for                             subscription.
+                      To rank your video it is important that you give the basic description about the video. ie. What you include in                         your video and what content is the content of your video.
 
-b)click on the upload option and you will get window showing upload videos. from the list of your videos select the video which you want to upload on the channel. once you select the file it will start uploading.
+              STEP 4: If you want your video to rank up or it shoud appear in the search list it is necessary to give **TAGS** to your                         videos. eg. you have to give description in just two three words like **"#how to upload video, #video ko sahi                           tarikese kese upload karien"**. 
 
-c)while video is being uploading on channel you have to fill the basic information like video title and video descripton.
+              STEP 5: After all your basic information is filled now you will have to for the selection of thumbnail of your video. See                       that the thumnail is attractive because the viewers will first look for the thumbnail and after that your video.                         So the thumbnail should quite attractive and it should give atleast baSic idea of your video.
 
-now, it is important  that how to give the video a nice title. which also attracts the viewers and also help for subscription.
-to rank your video it is important that you give the basic description about the video. ie. what you include in your video and what content is the content of your video.
-if you want your video to rank up or it shoud appear in the search list it is necessary to give **tags** to your videos. eg. you have to give description in just two three words like **"#how to upload video, #video ko sahi tarikese kese upload karien"**. 
-after all your basic information is filled now you will have to for the selection of thumbnail of your video. see that the thumnail is attractive because the viewers will first look for the thumbnail and after that your video. so the thumbnail should quite attractive and it should give atleast baic idea of your video.
-now in advanced settings, you have catergorise your video. basically categorise means what the video is about if it is about music then sekect the music category or if it is about science and technology select the same.
-make sure your video is public so that people can browse over it. after switching to public the very last step is **publish**.
+              STEP 6:  You have catergorise your video. basically categorise means what the video is about if it is about music then                            select the music category or if it is about science and technology select the same.
+              
+              STEP 7: Make sure your video is public so that people can browse over it. After switching to public the very last step is                       **PUBLISH**.
 
-d)by clicking on **publish** button your video will be uploaded to your youtube channel.
+              STEP 8: By clicking on **PUBLISH** button your video will be uploaded to your youtube channel.
 
-## HOW TO MAKE PLAYLISTS O YOUTUBE CHANNEL
+
+## STEP 3: HOW TO MAKE PLAYLISTS O YOUTUBE CHANNEL
 
 Basically, playlist is about categorising your videos. if you are making videos on same topic for more than twice times you can keep all them in same place by making a **playlist**.
 
