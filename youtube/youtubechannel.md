@@ -22,7 +22,9 @@ The below document gives you the information about how to create youtube channel
 
 USECASE 1: USER SHOULD BE ABLE TO LOGIN THROUGH GMAIL ACCOUNT.
   
-  TEST CASE 1: STEP 1: As we all have Gmail account we have to sign in from it to create our own channel.
+  TEST CASE 1:
+             
+             STEP 1: As we all have Gmail account we have to sign in from it to create our own channel.
                        Go on youtube page. at the right corner of the page you will see the **sign in** option. for sign in you have to                        give the registerd email id and its creidentals. 
                        after registering you will get a new youtube page where your page is synced with your gmail account.
                        once you get into the page, again at your right hand corner you will be displayed with some character image or                          your profile picture of gmail account. 
@@ -35,7 +37,9 @@ USECASE 1: USER SHOULD BE ABLE TO LOGIN THROUGH GMAIL ACCOUNT.
 
 USECASE 2: ADVANCE SETTINGS OF YOUR CHANNEL.
  
- TEST CASE 2: STEP 1: In settings,
+ TEST CASE 2: 
+ 
+              STEP 1: In settings,
                       Go to channel. In channel you will get basic information form to fill up, fill it accordingly. you will also get                         the subcriber count if you want the count of subscriber then enable it.
                       
                STEP 2: In advance settings you have to verify your account. give your email and you will get verification code.After                            these your channel will be verified.      
