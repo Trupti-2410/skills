@@ -67,7 +67,7 @@ USECASE 1: CREATING YOUTUBE ACCOUNT AND MAKING CERTAIN CHANGES IN IT.
                       
               STEP 5: After submitting it you will get message of verification. that your youtube account is verified.
 
-image of dashboard of youtube account
+
 
  
 Next it is important, if you want to get advertisment on your channel it is important to monititize your account.
