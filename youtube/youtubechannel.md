@@ -70,8 +70,9 @@ USECASE 2: ADVANCE SETTINGS OF YOUR CHANNEL.
 ![DASHBOARD](https://user-images.githubusercontent.com/63445264/82727728-e32f0f00-9d09-11ea-939c-1184f62e7388.jpg)
 
  USECASE 2: HOW TO MONETIZE YOUR YOUTUBE ACCOUNT.
+           
            If you want to get advertisment on your channel it is important to monititize your account.
-           On the dashboard you will see option MONETIZATION to enable that we have to follow some steps.
+          
 
 TEST CASE 1:
               
@@ -122,24 +123,27 @@ TEST CASE 1:
               STEP 8: By clicking on **PUBLISH** button your video will be uploaded to your youtube channel.
 
 
-## STEP 3: HOW TO MAKE PLAYLISTS O YOUTUBE CHANNEL
+## STEP 3: HOW TO MAKE PLAYLISTS ON YOUTUBE CHANNEL
 
-Basically, playlist is about categorising your videos. if you are making videos on same topic for more than twice times you can keep all them in same place by making a **playlist**.
+Basically, Playlist is about categorising your videos. If you are making videos on same topic for more than twice times you can keep all them in same place by making a **PLAYLIST**.
 
 ![playlist](https://user-images.githubusercontent.com/63445264/82326928-34ce5580-99fb-11ea-8863-5be37f354dbc.jpg)
 
-a)open your youtube channel, click on playlist. if you have previous playlists it will view it and if not you have to add videos to it.
+USECASE 1: CREATING PLAYLIST ON YOUR CHANNEL.
 
-b) go to coustmise channel, after clicking on coustmise channelyou will get option of **new playlist**. you have to give playlist title. next you have to select between public or private.
+TEST CASE 1:
+              
+              STEP 1: Open your youtube channel, click on playlist. if you have previous playlists it will view it and if not you have                         to add videos to it.
 
-c) your playlist will get generate.
+              STEP 2: Go to coustmise channel, after clicking on coustmise channelyou will get option of **new playlist**. you have to                         give playlist title. next you have to select between public or private.
 
-d) beside your channel name you will get option about editing, click on that. on that you whave to add videos.
+              STEP 3: Your playlist will get generate.
 
-e) choose your videos according to your playlist and say add videos.
+              STEP 4: Beside your channel name you will get option about editing, click on that. On that you whave to add videos.
 
-f) going back to channel page, you will see new playlist has been added to your channel.
+              STEP 5: Choose your videos according to your playlist and say add videos.
 
+              STEP 6: Going back to channel page, you will see new playlist has been added to your channel.
 
 [![play](https://user-images.githubusercontent.com/63445264/82327663-5c71ed80-99fc-11ea-9876-02d7ef77a1b8.png) (https://www.youtube.com/watch?v=r74p6y4uKbw)
 
