@@ -8,7 +8,7 @@ The below document gives you the information about how to create youtube channel
 
 ## The basic requirement for creating the channel are as follows:
 
-**Gmail account**
+** *Gmail account**
 
 **Valid phone number**
 
