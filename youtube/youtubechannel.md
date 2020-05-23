@@ -49,30 +49,27 @@ USECASE 2: ADVANCE SETTINGS OF YOUR CHANNEL.
 
 ![monetization](https://user-images.githubusercontent.com/63445264/82326438-74e10880-99fa-11ea-8b03-967d566d049e.png)
 
+USECASE 1: CREATING YOUTUBE ACCOUNT AND MAKING CERTAIN CHANGES IN IT.
+ 
+ TEST CASE 1:
+ 
+              STEP 1: Go on youtube page, at the right corner of the page you will see the **sign in** option. for **sign in** you have                       to give the registerd email id and its creidentals.
+                      After registering you will get a new youtube page where your gmail is synced with your gmail account.
+                      Once you get into the page, again at your right hand corner you will be displayed with some character image or                           your profile picture of gmail account.
 
+              STEP 2: Click on that logo you will get one menu. in that menu you will get **CREATE STUDIO**.As soon as you click on                           create studio you will get dashboard known as Menu page.
 
+              STEP 3: On the left of menu you will see some features. from that features we have to select **Channel**.
+                      On clicking channel on the right side of page you will get one form type where account regarding things are given.
+              
+              STEP 4: First of all, we have to verify the gmail account.
+                      For the verification you have to select country name, you will get pop-up ofhow you will deliver the verification                       code to you? through call or texT. after giving the phone number the verification messgae will come with code and                       your account will be verified.
+                      
+              STEP 5: After submitting it you will get message of verification. that your youtube account is verified.
 
-
-
-
-
-
-
-
-
-
-Very first, 
-
-a)go on youtube page, at the right corner of the page you will see the **sign in** option. for **sign in** you have to give the registerd email id and its creidentals.
-after registering you will get a new youtube page where your gmail is synced with your gmail account.
-once you get into the page, again at your right hand corner you will be displayed with some character image or your profile picture of gmail account.
-
-b)click on that logo you will get one menu. in that menu you will get **create studio**.as soon as you click on create studio you will get dashboard. known as menu page.
 image of dashboard of youtube account
 
-c)on the left of menu you will see some features. from that features we have to select **Channel**.
-on clicking channel on the right side of page you will get one form type where account regarding things are given. first of all, we have to verify the gmail account. for the verification you have to select country name, you will get pop-up ofhow you will deliver the verification code to you? through call or tex. after giving the phone number the verification messgae will come with code and your account will be verified. after submitting it you will get message of verification. that your youtube account is verified.
-
+ 
 Next it is important, if you want to get advertisment on your channel it is important to monititize your account.
 on the dashboard you will see option MONETIZATION to enable that we have to follow some steps.
 
