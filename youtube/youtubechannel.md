@@ -69,34 +69,27 @@ USECASE 1: CREATING YOUTUBE ACCOUNT AND MAKING CERTAIN CHANGES IN IT.
 
 ![DASHBOARD](https://user-images.githubusercontent.com/63445264/82727728-e32f0f00-9d09-11ea-939c-1184f62e7388.jpg)
 
+USECASE 2: HOW TO MONETIZE YOUR YOUTUBE ACCOUNT.
+           If you want to get advertisment on your channel it is important to monititize your account.
+           On the dashboard you will see option MONETIZATION to enable that we have to follow some steps.
 
- 
-Next it is important, if you want to get advertisment on your channel it is important to monititize your account.
-on the dashboard you will see option MONETIZATION to enable that we have to follow some steps.
+TEST CASE 1:
+              
+              STEP 1: Select the Country location.
+                      Save it.From these you will enable to get advertisment on your channel. 
+            
+              STEP 2: We have to enable the account.(for enabling monetiation option it is must that you have atleast one or two videos                       on your channel). Accept all the terms and conditions. 
 
-a)select the country location
+              STEP 3: It will give you option whIch type of advertisement you want through a dropdown select yur choice and then                               **Monetize**  
 
-b)save it
-from these you will enable to get advertisment on your channel. 
+              STEP 4: Now, to get money on your bank account you have to sync your bank account. 
+                      Link account.
+                      Verify account.
 
-Next,
-
-a)we have to enable the account.(for enabling monetiation option it is must that you have atleast one or two videos on your channel)
-
-b)accept all the terms and conditions 
-
-c)it will give you option whuch type of advertisement you want through a dropdown select yur choice and then **monetize**  
-Now, to get money on your bank account you have to sync your bank account for that follow below steps
-
-a)link account
-
-b)verify account
-
-After verification the google adsense page will open. fill your information like website,personal information and also time in kolkata time standard.
-
-c)submit your account details.
-it will redirect you to youtube page. on the page you will get one message about submission of your Adsense application and it will review within a week.
-after these you will get money added to your synced bank account.  
+              STEP 5: After verification the google adsense page will open. fill your information like website,personal information and                       also time in kolkata time standard.
+                      Submit your account details.
+                      It will redirect you to youtube page. on the page you will get one message about submission of your Adsense                             application and it will review within a week.
+                      After these you will get money added to your synced bank account.  
 
 ![money](https://user-images.githubusercontent.com/63445264/82326462-7d394380-99fa-11ea-888e-040212cbe3c8.jpg)
 
