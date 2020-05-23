@@ -145,7 +145,7 @@ TEST CASE 1:
 
               STEP 6: Going back to channel page, you will see new playlist has been added to your channel.
 
-[![play](https://user-images.githubusercontent.com/63445264/82327663-5c71ed80-99fc-11ea-9876-02d7ef77a1b8.png) (https://www.youtube.com/watch?v=r74p6y4uKbw)
+
 
 
 
