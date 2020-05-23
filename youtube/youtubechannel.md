@@ -45,21 +45,21 @@ USECASE 2: ADVANCE SETTINGS OF YOUR CHANNEL.
                STEP 2: In advance settings you have to verify your account. give your email and you will get verification code.After                            these your channel will be verified.      
                STEP 3: Your new Youtube channel is created.
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## IF YOU WANT EARN FROM YOUTUBE CHANNEL(MONETIZATION OF YOUR CHANNEL):
 
 ![monetization](https://user-images.githubusercontent.com/63445264/82326438-74e10880-99fa-11ea-8b03-967d566d049e.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 Very first, 
 
