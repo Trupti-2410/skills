@@ -145,7 +145,7 @@ TEST CASE 1:
 
               STEP 6: Going back to channel page, you will see new playlist has been added to your channel.
 
-
+## THINGS WE REQUIRE TO CAPTURE THE VIDEO
 
 
 
