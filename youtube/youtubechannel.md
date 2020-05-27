@@ -153,8 +153,15 @@ there 4 ways to record videos:
 
 1) Traditional way
    i.e. with white board, camera and mic.
-   
-   
+
+2) using interactive pen tablet
+   i.e. writing and explaning students
+
+3) on pdf's  ppt's or pdf files
+   i.e. or sharing the data stored in pdf's and ppt 
+
+4) full mode in green screen
+    i.e. green cloth type board.
 
 
 
