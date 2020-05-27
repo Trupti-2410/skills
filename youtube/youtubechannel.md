@@ -159,7 +159,7 @@ There 4 ways to record videos:
 
    i.e. you can write your content on tablet and that content will appear on the screen along with these students will able to see you           while explaining.
 
-3) On **PDF's or PPT files**
+3) On **PDF's or PPT** files
 
    i.e. or sharing the data stored in PDF's and PPT 
 
@@ -171,6 +171,7 @@ While making videos there might be some disturbance. There can be some kind of n
 To overcome these with editing the videos with some softwares which are avilable in market. These software helps you to edit your video like,
 1) Removing background music.
 2) Edit the unnecassary part from videos, blur the background, extra noise.
+
 
 
 
