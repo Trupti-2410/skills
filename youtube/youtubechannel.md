@@ -147,20 +147,20 @@ TEST CASE 1:
 
 ## HOW TO CREATE EDUCATIONAL AND INNOVATIVE VIDEOS FOR YOUTUBE
 
-Equipments we need for making a video:
+## Equipments we need for making a video:
 
-there 4 ways to record videos:
+There 4 ways to record videos:
 
 1) Traditional way
    i.e. with white board, camera and mic.
 
-2) using interactive pen tablet
+2) Using **interactive pen tablet**
    i.e. writing and explaning students
 
-3) on pdf's  ppt's or pdf files
+3) On **PDF's or PPT files**
    i.e. or sharing the data stored in pdf's and ppt 
 
-4) full mode in green screen
+4) Full mode in **Green screen**
     i.e. green cloth type board.
 
 
