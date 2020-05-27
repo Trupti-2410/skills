@@ -149,6 +149,13 @@ TEST CASE 1:
 
 Equipments we need for making a video:
 
+there 4 ways to record videos:
+
+1) Traditional way
+   i.e. with white board, camera and mic.
+   
+   
+
 
 
 
