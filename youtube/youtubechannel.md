@@ -147,6 +147,7 @@ TEST CASE 1:
 
 ## HOW TO CREATE EDUCATIONAL AND INNOVATIVE VIDEOS FOR YOUTUBE
 
+Equipments we need for making a video:
 
 
 
