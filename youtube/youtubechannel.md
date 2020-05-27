@@ -151,18 +151,26 @@ TEST CASE 1:
 
 There 4 ways to record videos:
 
-1) Traditional way
-   i.e. with white board, camera and mic.
+1) **Traditional way**
+
+   i.e. with white board, camera and mic. Writing and explaning students with help of white board and camera for recording and mic for           proper voice
 
 2) Using **interactive pen tablet**
-   i.e. writing and explaning students
+
+   i.e. you can write your content on tablet and that content will appear on the screen along with these students will able to see you           while explaining.
 
 3) On **PDF's or PPT files**
-   i.e. or sharing the data stored in pdf's and ppt 
+
+   i.e. or sharing the data stored in PDF's and PPT 
 
 4) Full mode in **Green screen**
-    i.e. green cloth type board.
 
+    i.e. Green cloth type board.
+
+While making videos there might be some disturbance. There can be some kind of noise in the background which will disturb you.
+To overcome these with editing the videos with some softwares which are avilable in market. These software helps you to edit your video like,
+1) Removing background music.
+2) Edit the unnecassary part from videos, blur the background, extra noise.
 
 
 
