@@ -171,11 +171,14 @@ While making videos there might be some disturbance. There can be some kind of n
 To overcome these with editing the videos with some softwares which are avilable in market. These software helps you to edit your video like,
 1) Removing background music.
 2) Edit the unnecassary part from videos, blur the background, extra noise.
+There are many software avaliable in market which we can use to edit our video. Some of them are as follows:
+1) CAMTASIA
+2) ADOBE PREMIER
 
 
 
 
-
+https://www.youtube.com/watch?v=9wcn1QlsE14 
 
 
 
