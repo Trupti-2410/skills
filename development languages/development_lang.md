@@ -76,12 +76,19 @@ Browser developer tools - Chrome/Firefox developer tools.
 Image manipulation software: - Adobe Photoshop CS6.
 
 Elementor
+
 ![ELEMENTOR](https://user-images.githubusercontent.com/63445264/84251712-5a96d800-ab2b-11ea-9149-3f3655d3d3b1.png)
 
 Mobirise Website Builder
+
 Portfoliobox
+
 8b Website Builder
+
 WP Page Builder
-Quix – Joomla Page Builder. ![QUIX](https://www.themexpert.com/quix?utm_campaign=bawmedia&utm_medium=link&utm_source=cpc)
 
+![WP PAGE BUILDER](https://user-images.githubusercontent.com/63445264/84251933-a5185480-ab2b-11ea-9711-0f866b52d038.jpg)
 
+Quix – Joomla Page Builder. 
+
+![QUIX](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2019/03/15517607467.jpg)
