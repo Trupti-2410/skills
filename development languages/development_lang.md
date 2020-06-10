@@ -36,3 +36,50 @@ HTML & CSS, JavaScript, jQuery,JavaScript Frameworks,Front End Frameworks,Experi
 https://learntocodewith.me/web-dev/front-end-developer-skills/
 
 ![FRONTEND](https://user-images.githubusercontent.com/63445264/84247920-5caa6800-ab26-11ea-8e0d-b63a78020f1c.png)
+
+# HOW TO CREATE OWN WEBSITE:
+
+To create a website, you need to follow 4 basic steps.
+
+## Register your domain name
+## Find a web hosting company
+## Prepare your content
+## Build your website
+
+WordPress Vs. Website Builders
+
+Website builders are absolutely perfect for:
+
+Restaurants
+Local businesses
+Freelancers
+Hobby sites
+Student groups
+Community projects
+“Resume” sites
+Short term projects
+
+WORDPRESS:
+WordPress literally powers a third of the internet and for good reason. It has everything you want when getting serious about your website:
+
+Easy setup so getting your site live is fast.
+Ongoing dev maintenance from the company that maintains WordPress, this means less development maintenance and lower costs for you.
+Complete flexibility and customizability. Over time, you can build your site however you like.
+Easy enough that many people on your team will be able to make basic edits to your site with the help of a developer.
+
+To create a website, these are the basic tools you need:
+
+Web Browsers - Google Chrome + Mozilla Firefox at least.
+Version Control - Git command line.
+Text Editor - Sublime Text/Visual Studio code.
+Browser developer tools - Chrome/Firefox developer tools.
+Image manipulation software: - Adobe Photoshop CS6.
+
+Elementor
+Mobirise Website Builder
+Portfoliobox
+8b Website Builder
+WP Page Builder
+Quix – Joomla Page Builder. ![QUIX](https://www.themexpert.com/quix?utm_campaign=bawmedia&utm_medium=link&utm_source=cpc)
+
+
