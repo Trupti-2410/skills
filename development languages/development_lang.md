@@ -26,3 +26,24 @@
 
 
 # FRONT END DEVELOPMENT:
+
+Front end developer deals with what the user interacts with and back end is all that goes behind the scenes and makes it happen.The front-end layer helps you interact with the web, watch videos, perform actions like register to an online shopping site. Thus, the design, look and feel of the web is accomplished with the help of  HTML, CSS, and JavaScript. The front end developers work with the design and outlook of the website.
+
+## What is Front End Development?
+
+HTML & CSS
+JavaScript
+jQuery
+JavaScript Frameworks
+Front End Frameworks
+Experience with CSS Preprocessors
+Experience with RESTful Services and APIs
+Responsive and Mobile Design
+Cross-Browser Development
+Content Management Systems and E-commerce Platforms
+Testing and Debugging
+Git and Version Control Systems
+Problem Solving Skills
+
+https://learntocodewith.me/web-dev/front-end-developer-skills/
+
