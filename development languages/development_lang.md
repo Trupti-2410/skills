@@ -41,54 +41,67 @@ https://learntocodewith.me/web-dev/front-end-developer-skills/
 
 To create a website, you need to follow 4 basic steps.
 
-## Register your domain name
-## Find a web hosting company
-## Prepare your content
-## Build your website
+* ## Register your domain name
+* ## Find a web hosting company
+* ## Prepare your content
+* ## Build your website
 
-WordPress Vs. Website Builders
+## WordPress Vs. Website Builders
 
 Website builders are absolutely perfect for:
 
 Restaurants
+
 Local businesses
+
 Freelancers
+
 Hobby sites
+
 Student groups
+
 Community projects
+
 “Resume” sites
+
 Short term projects
 
-WORDPRESS:
+## WORDPRESS:
 WordPress literally powers a third of the internet and for good reason. It has everything you want when getting serious about your website:
-
 Easy setup so getting your site live is fast.
+
 Ongoing dev maintenance from the company that maintains WordPress, this means less development maintenance and lower costs for you.
+
 Complete flexibility and customizability. Over time, you can build your site however you like.
+
 Easy enough that many people on your team will be able to make basic edits to your site with the help of a developer.
 
-To create a website, these are the basic tools you need:
+## To create a website, these are the basic tools you need:
 
-Web Browsers - Google Chrome + Mozilla Firefox at least.
-Version Control - Git command line.
-Text Editor - Sublime Text/Visual Studio code.
-Browser developer tools - Chrome/Firefox developer tools.
-Image manipulation software: - Adobe Photoshop CS6.
+1.Web Browsers - Google Chrome + Mozilla Firefox at least.
 
-Elementor
+2.Version Control - Git command line.
+
+3.Text Editor - Sublime Text/Visual Studio code.
+
+4.Browser developer tools - Chrome/Firefox developer tools.
+
+5.Image manipulation software: - Adobe Photoshop CS6.
+
+6.Elementor
 
 ![ELEMENTOR](https://user-images.githubusercontent.com/63445264/84251712-5a96d800-ab2b-11ea-9149-3f3655d3d3b1.png)
 
-Mobirise Website Builder
+7.Mobirise Website Builder
 
-Portfoliobox
+8.Portfoliobox
 
-8b Website Builder
+9.8b Website Builder
 
-WP Page Builder
+10.WP Page Builder
 
 ![WP PAGE BUILDER](https://user-images.githubusercontent.com/63445264/84251933-a5185480-ab2b-11ea-9711-0f866b52d038.jpg)
 
-Quix – Joomla Page Builder. 
+11.Quix – Joomla Page Builder. 
 
 ![QUIX](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2019/03/15517607467.jpg)
