@@ -31,19 +31,8 @@ Front end developer deals with what the user interacts with and back end is all 
 
 ## What is Front End Development?
 
-HTML & CSS
-JavaScript
-jQuery
-JavaScript Frameworks
-Front End Frameworks
-Experience with CSS Preprocessors
-Experience with RESTful Services and APIs
-Responsive and Mobile Design
-Cross-Browser Development
-Content Management Systems and E-commerce Platforms
-Testing and Debugging
-Git and Version Control Systems
-Problem Solving Skills
+HTML & CSS, JavaScript, jQuery,JavaScript Frameworks,Front End Frameworks,Experience with CSS Preprocessors,Experience with RESTful Services and APIs,Responsive and Mobile Design,Cross-Browser Development,Content Management Systems and E-commerce Platforms,Testing and Debugging,Git and Version Control Systems,Problem Solving Skills.
 
 https://learntocodewith.me/web-dev/front-end-developer-skills/
 
+![FRONTEND](https://user-images.githubusercontent.com/63445264/84247920-5caa6800-ab26-11ea-8e0d-b63a78020f1c.png)
